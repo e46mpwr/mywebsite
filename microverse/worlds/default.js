@@ -45,8 +45,7 @@ export function init(Constants) {
                 layers: ["light"],
                 type: "lighting",
                 behaviorModules: ["Light"],
-                clearColor: 0xaabbff,
-                dataLocation: "./assets/images/GHDRI_DLCD_017_10k.hdr",
+                dataLocation: "./assets/imagees/GHDRI_DLCD_017_10k.hdr",
             }
         },
     ];
